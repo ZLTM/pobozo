@@ -1,0 +1,106 @@
+fileFormatVersion: 2
+guid: 342d15625ef42e542a7eec6158f0c54c
+timeCreated: 1474852878
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Dog_0
+    21300002: Dog_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Dog_0
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 279
+        width: 160
+        height: 212
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 157, y: -211}
+        - {x: 160, y: -162}
+        - {x: 160, y: -23}
+        - {x: 158, y: -9}
+        - {x: 143, y: 0}
+        - {x: 25, y: 0}
+        - {x: 0, y: -25}
+        - {x: 0, y: -96}
+        - {x: 15, y: -203}
+        - {x: 26, y: -212}
+        - {x: 63, y: -212}
+        - {x: 73, y: -201}
+        - {x: 93, y: -212}
+        - {x: 141, y: -212}
+    - name: Dog_1
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 288
+        width: 221
+        height: 212
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 0}
+        - {x: 0, y: -66}
+        - {x: 0, y: -150}
+        - {x: 28, y: -189}
+        - {x: 45, y: -184}
+        - {x: 47, y: -182}
+        - {x: 47, y: -176}
+        - {x: 57, y: -172}
+        - {x: 83, y: -212}
+        - {x: 221, y: -212}
+        - {x: 221, y: 0}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,133 @@
+fileFormatVersion: 2
+guid: 7663614abff0bcf47ade2f1a05ab3eec
+timeCreated: 1474875003
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: train_0
+    21300002: train_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: train_0
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 560
+        width: 737
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 355.5, y: -87}
+        - {x: 352.5, y: -84}
+        - {x: 352.5, y: -51}
+        - {x: 354.5, y: -50}
+        - {x: 368.5, y: -50}
+        - {x: 368.5, y: 122}
+        - {x: -368.5, y: 122}
+        - {x: -368.5, y: -50}
+        - {x: -352.5, y: -50}
+        - {x: -351.5, y: -51}
+        - {x: -351.5, y: -87}
+        - {x: -354.5, y: -87}
+        - {x: -356.5, y: -86}
+        - {x: -357.5, y: -87}
+        - {x: -363.5, y: -87}
+        - {x: -364.5, y: -86}
+        - {x: -368.5, y: -86}
+        - {x: -368.5, y: -122}
+        - {x: 368.5, y: -122}
+        - {x: 368.5, y: -86}
+        - {x: 366.5, y: -87}
+    - name: train_1
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 304
+        width: 842
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 405, y: -67}
+        - {x: 404, y: -66}
+        - {x: 404, y: -58}
+        - {x: 405, y: -57}
+        - {x: 404, y: -51}
+        - {x: 407, y: -51}
+        - {x: 408, y: -50}
+        - {x: 416, y: -50}
+        - {x: 417, y: -51}
+        - {x: 420, y: -51}
+        - {x: 421, y: -50}
+        - {x: 421, y: 123}
+        - {x: -421, y: 123}
+        - {x: -421, y: -51}
+        - {x: -418, y: -51}
+        - {x: -417, y: -50}
+        - {x: -406, y: -50}
+        - {x: -405, y: -51}
+        - {x: -405, y: -54}
+        - {x: -406, y: -55}
+        - {x: -405, y: -57}
+        - {x: -405, y: -69}
+        - {x: -406, y: -70}
+        - {x: -406, y: -73}
+        - {x: -405, y: -74}
+        - {x: -405, y: -87}
+        - {x: -421, y: -87}
+        - {x: -421, y: -123}
+        - {x: 421, y: -123}
+        - {x: 421, y: -87}
+        - {x: 405, y: -87}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

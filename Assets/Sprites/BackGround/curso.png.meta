@@ -1,0 +1,384 @@
+fileFormatVersion: 2
+guid: 70c78487ffbad9647bb46f893563826e
+timeCreated: 1474859811
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: curso_0
+    21300002: curso_1
+    21300004: curso_2
+    21300006: curso_3
+    21300008: curso_4
+    21300010: curso_5
+    21300012: curso_6
+    21300014: curso_7
+    21300016: curso_8
+    21300018: curso_9
+    21300020: curso_10
+    21300022: curso_11
+    21300024: curso_12
+    21300026: curso_13
+    21300028: curso_14
+    21300030: curso_15
+    21300032: curso_16
+    21300034: curso_17
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: curso_0
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1202
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 30.5}
+        - {x: -16.5, y: -30.5}
+        - {x: 16.5, y: -30.5}
+        - {x: 16.5, y: 30.5}
+    - name: curso_1
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1202
+        width: 114
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57, y: 30.5}
+        - {x: -57, y: -30.5}
+        - {x: 57, y: -30.5}
+        - {x: 57, y: 30.5}
+    - name: curso_2
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1201
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 31}
+        - {x: -16, y: -31}
+        - {x: 16, y: -31}
+        - {x: 16, y: 31}
+    - name: curso_3
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 944
+        width: 139
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69.5, y: 65}
+        - {x: -69.5, y: -65}
+        - {x: 69.5, y: -65}
+        - {x: 69.5, y: 65}
+    - name: curso_4
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 974
+        width: 27
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: curso_5
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 974
+        width: 27
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: curso_6
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1057
+        width: 73
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 34}
+        - {x: -36.5, y: 31}
+        - {x: -36.5, y: -34}
+        - {x: -34.5, y: -35}
+        - {x: 30.5, y: -35}
+        - {x: 31.5, y: -29}
+        - {x: 31.5, y: 31}
+        - {x: 29.5, y: 34}
+      - - {x: 30.5, y: 35}
+        - {x: 29.5, y: 34}
+        - {x: 29.5, y: 31}
+        - {x: 32.5, y: 29}
+        - {x: 36.5, y: 29}
+        - {x: 36.5, y: 35}
+    - name: curso_7
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 1059
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 33.5}
+        - {x: -32, y: 31.5}
+        - {x: -32, y: -33.5}
+        - {x: 32, y: -33.5}
+        - {x: 32, y: 33.5}
+    - name: curso_8
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 1058
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 33.5}
+        - {x: -32, y: -33.5}
+        - {x: 32, y: -33.5}
+        - {x: 32, y: 33.5}
+    - name: curso_9
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 1059
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 33}
+        - {x: -33, y: 30}
+        - {x: -33, y: -34}
+        - {x: 33, y: -34}
+        - {x: 33, y: 29}
+        - {x: 30, y: 33}
+      - - {x: -30, y: 31}
+        - {x: -30, y: 34}
+        - {x: -33, y: 34}
+        - {x: -33, y: 30}
+    - name: curso_10
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 1055
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 36}
+        - {x: -33.5, y: -36}
+        - {x: 33.5, y: -36}
+        - {x: 33.5, y: 36}
+      - - {x: -0.5, y: 34}
+        - {x: -0.5, y: 36}
+        - {x: -5.5, y: 36}
+        - {x: -3.5, y: 33}
+    - name: curso_11
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 943
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: curso_12
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 944
+        width: 125
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: curso_13
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 943
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: curso_14
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 893
+        width: 129
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64.5, y: -56}
+        - {x: 64.5, y: 62}
+        - {x: -64.5, y: 62}
+        - {x: -64.5, y: -60}
+        - {x: -55.5, y: -60}
+        - {x: -47.5, y: -57}
+        - {x: -43.5, y: -55}
+        - {x: -36.5, y: -62}
+        - {x: -23.5, y: -62}
+        - {x: -18.5, y: -57}
+        - {x: -0.5, y: -62}
+        - {x: 57.5, y: -62}
+    - name: curso_15
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 686
+        width: 529
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 173.5, y: -115}
+        - {x: 174.5, y: -116}
+        - {x: 263.5, y: -116}
+        - {x: 264.5, y: -111}
+        - {x: 263.5, y: -110}
+        - {x: 264.5, y: -107}
+        - {x: 264.5, y: -92}
+        - {x: 263.5, y: -89}
+        - {x: 264.5, y: -88}
+        - {x: 264.5, y: 107}
+        - {x: 263.5, y: 108}
+        - {x: 264.5, y: 111}
+        - {x: 264.5, y: 116}
+        - {x: 261.5, y: 116}
+        - {x: 260.5, y: 115}
+        - {x: 259.5, y: 116}
+        - {x: 256.5, y: 116}
+        - {x: 255.5, y: 115}
+        - {x: 175.5, y: 115}
+        - {x: 173.5, y: 114}
+        - {x: 171.5, y: 116}
+        - {x: 170.5, y: 116}
+        - {x: 169.5, y: 115}
+        - {x: 84.5, y: 115}
+        - {x: 82.5, y: 114}
+        - {x: 81.5, y: 115}
+        - {x: -253.5, y: 115}
+        - {x: -253.5, y: 116}
+        - {x: -259.5, y: 116}
+        - {x: -260.5, y: 115}
+        - {x: -261.5, y: 116}
+        - {x: -264.5, y: 115}
+        - {x: -264.5, y: -116}
+        - {x: 173.5, y: -116}
+    - name: curso_16
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 691
+        width: 105
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.5, y: 79}
+        - {x: -52.5, y: -79}
+        - {x: 52.5, y: -79}
+        - {x: 52.5, y: 79}
+    - name: curso_17
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 691
+        width: 124
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: 83.5}
+        - {x: -62, y: -83.5}
+        - {x: 62, y: -83.5}
+        - {x: 62, y: 83.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

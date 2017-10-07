@@ -1,0 +1,201 @@
+fileFormatVersion: 2
+guid: 5224c16908339914ea6347c1c27314cd
+timeCreated: 1474851494
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Juan_0
+    21300002: Juan_1
+    21300004: Juan_2
+    21300006: Juan_3
+    21300008: Juan_4
+    21300010: Juan_5
+    21300012: Juan_6
+    21300014: Juan_7
+    21300016: Juan_8
+    21300018: Juan_9
+    21300020: Juan_10
+    21300022: Juan_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Juan_0
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 437
+        width: 24
+        height: 31
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_1
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 437
+        width: 24
+        height: 32
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_2
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 437
+        width: 23
+        height: 31
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_3
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 401
+        width: 22
+        height: 32
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_4
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 402
+        width: 22
+        height: 33
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_5
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 402
+        width: 22
+        height: 33
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_6
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 368
+        width: 22
+        height: 32
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_7
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 367
+        width: 22
+        height: 33
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_8
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 368
+        width: 22
+        height: 32
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_9
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 333
+        width: 24
+        height: 31
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_10
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 333
+        width: 24
+        height: 31
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Juan_11
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 333
+        width: 24
+        height: 31
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
