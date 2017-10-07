@@ -1,33 +1,43 @@
-# Taki Runa
-> Videogame made for the 2016 Bolivian GGJ
+# Pobozo
+> Videogame made for the 2016 Eduardo Abaroa national art competition
 
-[![Twitter URL](https://img.shields.io/badge/Type-Videogame-yellow.svg)](https://github.com/ZLTM/Taki)
-[![License](https://img.shields.io/badge/event--placement-first--place-red.svg)](https://packagist.org/packages/phpunit/phpunit)
+[![Type](https://img.shields.io/badge/Type-Videogame-yellow.svg)](https://github.com/ZLTM/Taki)
+[![Genre](https://img.shields.io/badge/Genre-Narrative-yellowgreen.svg)](https://packagist.org/packages/phpunit/phpunit)
+[![State](https://img.shields.io/badge/State-Prototype-orange.svg)](https://packagist.org/packages/phpunit/phpunit)
+[![License](https://img.shields.io/badge/License-Apache%20license%202--0-blue.svg)](https://packagist.org/packages/phpunit/phpunit)
+[![Event-Placement](https://img.shields.io/badge/Event%20Placement-Honorific%20mention-brightgreen.svg)](https://packagist.org/packages/phpunit/phpunit)
 
-Game made following the theme "Ritual", it showcases the Bolivian culture old rituals by putting the player in the shoes of a yatiri (kind of like a shaman) accomplishing this using the movement tracking of [MYO](https://www.myo.com/).
 
-## Important
-**Due to legal issues I'm no longer able to provide the game exe, however I can still show the code.**
 
-![](sol-04.gif)
+Game made and selected for a honorific mention in the videogames category of the Eduardo Abaroa Bolivian contest, every year this contest awards the best representatives of each art medium in the country.
+
+![](logo-pobozo.gif)
+
+## Concept
+
+A retelling of the bolivian legends, myths and folklore.
+
+The protagonist and his party travel to a magic world pararel with the city of La Paz, Pobozo, here the player will chooze his path affecting his relationships and the world that surrounds him.
 
 ## Participation
 
-In this project I was able to participate together with the bolivian game studio GESH as a:
+In this project I was able to manage a multidisciplinary team while participating as a:
 
-* Game Designer: My first time designing a rythm game, also my first time using movement tracking.
-* Programer: Developed the rythm mechanic, helped with the demons movement.
+* Game Designer
+* Programer
+* Voice actor
+
+Aside from the movement I designed and programmed a set of 3 state machines used to handle the turn based combat and the branching narrative system dialog system, also experimented a bit with an easyer way to do it using the Ork Framework.
+
+## Gameplay
+
+Classic RPG turn based combat with a branching narrative system.
 
 ## Installation
 
 Windows:
 
-This game requires [MYO](https://www.myo.com/), after instaling it just open the game and play!
-
-
-## Gameplay
-
-As the hordes of demons aproaches you will purify them by moving your hands at the rythm of the beat marked by the circle.
+Run the exe inside the .rar or play from the unity editor.
 
 ## Contact
 
@@ -40,7 +50,6 @@ David Revilla:
 
 * Write me to: jdavidrevillad@gmail.com
 * Look at my full [C.V](https://drive.google.com/drive/folders/0B9XODKe51qg8aFFXRE9aNE15QWc?usp=sharing)
-
 
 ## Legal
 
