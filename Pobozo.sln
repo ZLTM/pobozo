@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pobozo", "Pobozo.csproj", "{55029B85-3F14-C0F3-137D-72E2439E2646}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pobozo.Editor", "Pobozo.Editor.csproj", "{B5A34543-A045-A434-6731-F5608C1D00AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55029B85-3F14-C0F3-137D-72E2439E2646}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55029B85-3F14-C0F3-137D-72E2439E2646}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55029B85-3F14-C0F3-137D-72E2439E2646}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55029B85-3F14-C0F3-137D-72E2439E2646}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5A34543-A045-A434-6731-F5608C1D00AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5A34543-A045-A434-6731-F5608C1D00AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5A34543-A045-A434-6731-F5608C1D00AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5A34543-A045-A434-6731-F5608C1D00AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
