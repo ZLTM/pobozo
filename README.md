@@ -11,7 +11,7 @@
 
 Game made and selected for a honorific mention in the videogames category of the Eduardo Abaroa Bolivian contest, every year this contest awards the best representatives of each art medium in the country.
 
-![](logo-pobozo.gif)
+![](logo-pobozo.jpg)
 
 ## Concept
 
