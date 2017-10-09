@@ -1,7 +1,7 @@
 # Pobozo
 > Videogame made for the 2016 Eduardo Abaroa national art competition
 
-[![Type](https://img.shields.io/badge/Type-Videogame-B67D3D.svg)](https://github.com/ZLTM/Taki)
+[![Type](https://img.shields.io/badge/Type-Videogame-945C1D.svg)](https://github.com/ZLTM/Taki)
 [![Genre](https://img.shields.io/badge/Genre-Narrative-DDA76A.svg)
 [![State](https://img.shields.io/badge/State-Prototype-2C834F.svg)](https://packagist.org/packages/phpunit/phpunit)
 [![License](https://img.shields.io/badge/License-Apache%202--0-343E7D.svg)](https://packagist.org/packages/phpunit/phpunit)
