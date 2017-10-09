@@ -7,7 +7,6 @@
 [![License](https://img.shields.io/badge/License-Apache%202--0-343E7D.svg)](https://packagist.org/packages/phpunit/phpunit)
 
 
-
 Game made and selected for a honorific mention in the videogames category of the Eduardo Abaroa Bolivian contest, every year this contest awards the best representatives of each art medium in the country.
 
 ![](logo-pobozo.jpg)
