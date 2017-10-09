@@ -1,5 +1,5 @@
 # Pobozo
-> Videogame made for the 2016 Eduardo Abaroa national art competition
+> Videogame winner of a honorific mention at the 2016 Eduardo Abaroa national art competition.
 
 [![Type](https://img.shields.io/badge/Type-Videogame-945C1D.svg)](https://github.com/ZLTM/Taki)
 [![State](https://img.shields.io/badge/Genre-Narrative-DDA76A.svg)](https://packagist.org/packages/phpunit/phpunit)
