@@ -45,6 +45,8 @@ David Revilla:
   <img width="50" height="50" border="0" align="center"  src="twitter-logo.jpg"></a>
 <a href="https://www.linkedin.com/in/zolutr/" target="_blank">
   <img width="50" height="50" border="0" align="center"  src="linkedin-logo.png"></a>
+  <a href="https://codepen.io/zltm/pen/gXbZbJ" target="_blank">
+  <img width="50" height="50" border="0" align="center"  src="codepen-logo.png"></a>
 
 * Write me to: jdavidrevillad@gmail.com
 * Look at my full [C.V](https://drive.google.com/drive/folders/0B9XODKe51qg8aFFXRE9aNE15QWc?usp=sharing)
